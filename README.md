@@ -6,10 +6,6 @@
 
 ---
 
-## Live / Demo
-This assignment is delivered as source code only. See demo video located at:
-`<your-demo-video-unlisted-link>`  
-
 ---
 
 ## Repo structure
