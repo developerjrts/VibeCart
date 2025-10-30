@@ -4,8 +4,3 @@
 **Stack:** React (frontend) • Node + Express (backend) • MongoDB (Mongoose) • Tailwind  
 **Author:** Rutik Kamble
 
----
-
----
-
-## Repo structure
